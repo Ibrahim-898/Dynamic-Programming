@@ -1,0 +1,1 @@
+{"name":"Local: bottomUpKnapsack","url":"d:\\DP\\bottomUpKnapsack.cpp","tests":[{"id":1728403795561,"input":"4 \n2 3 4 5\n1 3 5 3\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DP\\bottomUpKnapsack.cpp","group":"local","local":true}

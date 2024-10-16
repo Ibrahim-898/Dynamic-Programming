@@ -1,0 +1,1 @@
+{"name":"Local: equalSumPartitionSubset_Sum","url":"d:\\DP\\equalSumPartitionSubset_Sum.cpp","tests":[{"id":1728497300461,"input":"5\n1 2 5 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DP\\equalSumPartitionSubset_Sum.cpp","group":"local","local":true}
